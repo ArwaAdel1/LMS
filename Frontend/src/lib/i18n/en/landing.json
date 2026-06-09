@@ -1,8 +1,0 @@
-{
-  "hero": { "headline": "Your own academy... ready in minutes", "subheadline": "An all-in-one platform that helps you manage your students and content with AI", "cta": "Sign Up Now" },
-  "features": {
-    "content": { "title": "Easy Content Management", "desc": "Organize your lessons and files in one place" },
-    "ai": { "title": "AI-Powered Quizzes", "desc": "Generate quizzes from your content in seconds" },
-    "payments": { "title": "Integrated Online Payments", "desc": "Accept payments through all methods available in Egypt" }
-  }
-}
